@@ -1,0 +1,12 @@
+{
+    "name": "model-extractor",
+    "displayName": "Model Extractor",
+    "description": "Just a simple API to write meshes into glTF.",
+    "version": "v0.1.0",
+    "minGameVersion": "146",
+    "author": "GlFolker",
+    "java": true,
+    "hidden": true,
+    "main": "ext.Extractor",
+    "repo": "GlennFolker/ModelExtractor"
+}
